@@ -1,0 +1,16 @@
+Project Name : Customer Segmentation and Advertisement
+
+Description : Customer Segmentation is the division of potential customers in a given market into discrete groups. 
+That division is based on customers' Needs and Buying Characteristics. Customer Segmentation is a critical component of a company's go-to-market strategy.
+ Identifying and prioritizing high value customer segments (and just as importantly, deprioritizing low value segments) 
+enables us to maximize our impact by aligning marketing, sales and product resources.
+
+Main techniques used : RFM Modelling , Elbow criterion , K-Means Clustering.
+
+Softwares used : Anaconda Prompt , Jupyter Notebook , MS Excel.
+
+Language used : Python 3.6
+
+Aim of this project : The main goal is to identify the types of customers a particular market has. Using this methodology, 
+Marketers would get to know who are their Loyal Customers, who are moderate and who are on the verge of churning out, 
+so that different types of offers and discounts and other strategies can be applied accordingly to bring them back again and again.
