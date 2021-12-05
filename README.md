@@ -1,0 +1,2 @@
+# Customer-Segmentation-and-Advertisements
+Description : Customer Segmentation is the division of potential customers in a given market into discrete groups.  That division is based on customers' Needs and Buying Characteristics. Customer Segmentation is a critical component of a company's go-to-market strategy.  Identifying and prioritizing high value customer segments (and just as importantly, deprioritizing low value segments)  enables us to maximize our impact by aligning marketing, sales and product resources.
